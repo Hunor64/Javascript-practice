@@ -1,7 +1,7 @@
 1.	Git lokális repository létrehozása 
 Feladat:
 Hozz létre egy új Git repository-t a következő néven: Javascript/Typescript-practice. Inicializáld a Git-et a mappában!
-1.	Hozz létre egy lokális a repository-t és inicializáld:
+1.	Hozz létre egy lokális a repository-t és inicializáld: 
 1.2 Első commit elkészítése
 Feladat:
 Hozz létre egy README.md fájlt, amely tartalmazza a projekt nevét és rövid leírását. Commitold ezt a fájlt.
@@ -10,7 +10,7 @@ Hozz létre egy README.md fájlt, amely tartalmazza a projekt nevét és rövid 
 3.	Készítsd el az első commitot. Message: „Add initial README file”
 
 2.	TypeScript/javascript projekt inicializálása 
-Feladat:
+Feladat: 
 Inicializáld a TypeScript/javascript projektet. Hozz létre egy egyszerű TypeScript/javascript fájlt (, és fordítsd le JavaScript-re).
 1.	Inicializáld a package.json fájlt
 2.	Telepítsd a TypeScript-et (opcionális)
